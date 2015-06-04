@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= title %></title>
+    <title><%= title %> Jotape</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
+    <h1>Bienvenido al <%= title %> de Jotape</h1>
+    <p>El portal donde podrás crear tus propias preguntas para estudiar</p>
   </body>
 </html>
