@@ -1,12 +1,2 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta charset="utf-8"><title>QuizJotape</title>
-  <link rel='stylesheet' href='/styleshhet/style.css' />
-  </head>
-  <body>
-    <h2>Quiz Jotape: el juego de las preguntas</h2>
-    <p><%= respuesta %></p>
-    <a href="/quizes/question">Intentalo otra vez </a>
-   </body>
-</html>
+<p><%= respuesta %></p>
+<a href="/quizes/question">Intentalo otra vez </a>
